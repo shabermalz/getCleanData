@@ -1,0 +1,17 @@
+---
+title: "README.md"
+output: html_document
+---
+
+
+Steps of the analysis:
+
+1. Before importing the data the code creats variables with
+- activity labels to later label the activity variable
+- a list of the features to later label all feature variables
+- a list of all features that are means or standard deviations
+2. After the data is downloaded and labeled a training and a test data frame are created
+3. The training and test data frames are merged into one file called 'part3'
+4. The data is then grouped by subject and activity
+5. Means of the grouped variables are calculated and combined in the final data frame
+6. The tidy data frame is written to a text file called 'final.txt'
