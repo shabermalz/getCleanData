@@ -1,3 +1,0 @@
-# getCleanData
-# getCleanData
-# getCleanData

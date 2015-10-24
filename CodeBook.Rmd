@@ -1,0 +1,12 @@
+---
+title: "Code Book"
+output: html_document
+---
+
+Variable Name   description     
+
+subject         number of subject in study
+activity        activity while being measured
+all other       All other variables contain either the mean of the mean or the mean
+                or the standard deviation of the feature
+                in question
